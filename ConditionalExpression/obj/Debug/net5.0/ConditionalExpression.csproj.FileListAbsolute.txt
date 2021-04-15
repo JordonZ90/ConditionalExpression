@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.exe
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ref\ConditionalExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\bin\Debug\net5.0\ConditionalExpression.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ref\ConditionalExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\ConditionalExpression\ConditionalExpression\obj\Debug\net5.0\ConditionalExpression.genruntimeconfig.cache
